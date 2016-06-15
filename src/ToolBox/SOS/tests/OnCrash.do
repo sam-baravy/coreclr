@@ -1,2 +1,2 @@
-script open("/tmp/flag_fail", "a").close()
+script open("/tmp/flag_fail.lldb", "a").close()
 q
